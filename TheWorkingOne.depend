@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564461738 source:c:\users\user\documents\lecture notes\sem2\c programming\theworkingone_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
